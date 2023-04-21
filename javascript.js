@@ -1,6 +1,3 @@
-
-
-
 // Declare variables for the two numbers
 // Calculate the sum of the two numbers
 // Use if/else if/else statements to print the corresponding message based on the sum
